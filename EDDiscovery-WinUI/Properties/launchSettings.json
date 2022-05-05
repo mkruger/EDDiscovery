@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EDDiscovery-WinUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "EDDiscovery-WinUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
